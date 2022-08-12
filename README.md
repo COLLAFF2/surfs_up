@@ -4,7 +4,8 @@
 ## Overview
 
     In this analysis we are looking at the temperature trends before opening a surf shop. 
-    Specifically looking at the temperature data for the months of June and December in Oahu,Hawaii in order to determine if the surf and icecream shop is sustainable year round.
+    Specifically looking at the temperature data for the months of June and December in Oahu,Hawaii in order to 
+    determine if the surf and icecream shop is sustainable year round.
 
     This analysis will be done using python, pandas functions, and SQLalchemy.
 
